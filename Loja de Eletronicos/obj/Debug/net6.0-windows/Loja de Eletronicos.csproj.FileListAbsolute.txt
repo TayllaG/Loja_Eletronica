@@ -1,0 +1,19 @@
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.exe
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.deps.json
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.runtimeconfig.json
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.dll
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.pdb
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.AssemblyReference.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form1.resources
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form2_RealizarVenda.resources
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Properties.Resources.resources
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.GenerateResource.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.AssemblyInfoInputs.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.AssemblyInfo.cs
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.CoreCompileInputs.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.dll
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\refint\Loja de Eletronicos.dll
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.pdb
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.genruntimeconfig.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\ref\Loja de Eletronicos.dll
