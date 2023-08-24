@@ -32,6 +32,7 @@
             dataGridView1 = new DataGridView();
             label1 = new Label();
             button1 = new Button();
+            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -72,12 +73,27 @@
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
+            // button2
+            // 
+            button2.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            button2.BackColor = SystemColors.ActiveBorder;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Stencil", 9F, FontStyle.Regular, GraphicsUnit.Point);
+            button2.Location = new Point(83, 370);
+            button2.Name = "button2";
+            button2.Size = new Size(140, 34);
+            button2.TabIndex = 3;
+            button2.Text = "EXP.EXCEL";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
+            // 
             // Form3_VisualizarEstoque
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(465, 450);
+            Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(label1);
             Controls.Add(dataGridView1);
@@ -93,5 +109,6 @@
         private DataGridView dataGridView1;
         private Label label1;
         private Button button1;
+        private Button button2;
     }
 }

@@ -17,3 +17,7 @@ C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\ne
 C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.pdb
 C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.genruntimeconfig.cache
 C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\ref\Loja de Eletronicos.dll
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form3_VisualizarEstoque.resources
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.ResolveComReference.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form4_CadastrarProduto.resources

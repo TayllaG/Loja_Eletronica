@@ -20,7 +20,7 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region Windows Form Designer generated code 
 
         /// <summary>
         ///  Required method for Designer support - do not modify
@@ -35,6 +35,7 @@
             button4 = new Button();
             label1 = new Label();
             label2 = new Label();
+            button5 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -63,6 +64,7 @@
             button2.TabIndex = 1;
             button2.Text = "EXCLUIR \r\nPRODUTO";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -76,6 +78,7 @@
             button3.TabIndex = 2;
             button3.Text = "VISUALIZAR\r\nESTOQUE";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -115,12 +118,26 @@
             label2.TabIndex = 5;
             label2.Text = "MENU";
             // 
+            // button5
+            // 
+            button5.BackColor = SystemColors.ActiveBorder;
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.Font = new Font("Stencil", 9F, FontStyle.Regular, GraphicsUnit.Point);
+            button5.Location = new Point(270, 367);
+            button5.Name = "button5";
+            button5.Size = new Size(112, 34);
+            button5.TabIndex = 6;
+            button5.Text = "sair";
+            button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(466, 497);
+            Controls.Add(button5);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(button4);
@@ -141,5 +158,6 @@
         private Button button4;
         private Label label1;
         private Label label2;
+        private Button button5;
     }
 }

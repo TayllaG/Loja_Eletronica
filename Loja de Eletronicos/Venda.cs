@@ -15,18 +15,18 @@ namespace Eletros
         public double Valor { get; set; }
 
         public double Lucro { get; set; }
-
+        public int Quantidade { get; set; }
         public Venda()
         {
 
         }
-        public Venda(int id, string nome, double valor, double lucro)
+        public Venda(int id, string nome, double valor, double lucro, int quantidade)
         {
             this.Id = Id;
             this.Nome = Nome;
             this.Valor = Valor;
             this.Lucro = Lucro;
-
+            Quantidade = quantidade;
         }
 
     }

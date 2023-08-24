@@ -31,10 +31,10 @@ namespace Loja_de_Eletronicos
         private void button1_Click(object sender, EventArgs e)
         {
             Venda v = new Venda();
-            try
-            {
+            
                 try
                 {
+
                     v.Id = Convert.ToInt32(txt_id.Text);
 
                 }
@@ -74,11 +74,10 @@ namespace Loja_de_Eletronicos
                 {
                     MessageBox.Show("Erro: " + erro.Message + "\n Tente digitar novamente");
                 }
-            }
-            catch
-            {
+            
+
                 txt_venda.Text = (v.Lucro * v.Valor / 100 + v.Valor).ToString();
-            }
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
